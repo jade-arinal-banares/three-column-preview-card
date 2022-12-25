@@ -36,13 +36,15 @@
   >
     <div
       class="mx-auto grid sm:grid-rows-3 lg:grid lg:grid-cols-3 lg:px-56 lg:grid-rows-1"
+      role="main-container"
     >
       <div
         class="mx-4 mt-16 bg-brightOrange py-12 rounded-t-xl lg:mx-0 lg:rounded-l-xl lg:rounded-r-none"
+        role="for-sedans"
       >
         <img class="px-12 pb-12" src="./images/icon-sedans.svg" alt="" />
         <h2
-          class="px-12 pb-6 uppercase text-txtColor font-bold font-fontFam text-4xl"
+          class="px-12 pb-6 uppercase text-white font-bold font-fontFam text-4xl"
         >
           Sedans
         </h2>
@@ -60,10 +62,10 @@
         </div>
       </div>
       <!-- ... -->
-      <div class="mx-4 bg-darkCyan py-12 lg:mx-0 lg:mt-16">
+      <div class="mx-4 bg-darkCyan py-12 lg:mx-0 lg:mt-16" role="for-suvs">
         <img class="px-12 pb-12" src="./images/icon-suvs.svg" alt="" />
         <h2
-          class="px-12 pb-6 uppercase text-txtColor font-bold font-fontFam text-4xl"
+          class="px-12 pb-6 uppercase text-white font-bold font-fontFam text-4xl"
         >
           SUVs
         </h2>
@@ -82,10 +84,11 @@
       </div>
       <div
         class="mx-4 mb-20 bg-veryDarkCyan py-12 rounded-b-xl lg:mb-0 lg:mx-0 lg:mt-16 lg:rounded-r-xl lg:rounded-l-none"
+        role="for-luxury"
       >
         <img class="px-12 pb-12" src="./images/icon-luxury.svg" alt="" />
         <h2
-          class="px-12 pb-6 uppercase text-txtColor font-bold font-fontFam text-4xl"
+          class="px-12 pb-6 uppercase text-white font-bold font-fontFam text-4xl"
         >
           Luxury
         </h2>
@@ -104,7 +107,7 @@
       </div>
     </div>
 
-    <footer class="attribution">
+    <footer class="attribution" role="copyright">
       Challenge by
       <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
         >Frontend Mentor</a

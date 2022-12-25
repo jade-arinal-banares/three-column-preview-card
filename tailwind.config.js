@@ -15,6 +15,7 @@ module.exports = {
         veryDarkCyan: "hsl(179, 100%, 13%)",
         bgColor: "hsl(0, 0%, 95%)",
         txtColor: "hsla(0, 0%, 100%, 0.75)",
+        white: "#fff",
       },
       fontFamily: {
         fontFam: ["Big Shoulders Display", "cursive"],
