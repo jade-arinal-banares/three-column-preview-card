@@ -955,6 +955,11 @@ video {
     padding-left: 13rem;
     padding-right: 13rem;
   }
+
+  .lg\:px-56 {
+    padding-left: 14rem;
+    padding-right: 14rem;
+  }
 }
 
 @media (min-width: 1440px) {
