@@ -546,6 +546,11 @@ video {
   margin-right: 0.5rem;
 }
 
+.mx-16 {
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+
 .mt-32 {
   margin-top: 8rem;
 }
@@ -572,6 +577,10 @@ video {
 
 .mb-20 {
   margin-bottom: 5rem;
+}
+
+.mt-36 {
+  margin-top: 9rem;
 }
 
 .grid {
@@ -930,6 +939,21 @@ video {
   .lg\:px-36 {
     padding-left: 9rem;
     padding-right: 9rem;
+  }
+
+  .lg\:px-44 {
+    padding-left: 11rem;
+    padding-right: 11rem;
+  }
+
+  .lg\:px-48 {
+    padding-left: 12rem;
+    padding-right: 12rem;
+  }
+
+  .lg\:px-52 {
+    padding-left: 13rem;
+    padding-right: 13rem;
   }
 }
 
