@@ -6,7 +6,7 @@
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.Cancel changes
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
@@ -20,10 +20,3 @@ Your users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
-
-## Where to find everything
-
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design.
-
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`.
-
